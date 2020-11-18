@@ -1,5 +1,5 @@
 ## Morphing Book 
-[Morphing:A Guide to Mathematical Transformations for Architects and Designers](https://amzn.to/32WKEDE)
+[Morphing:A Guide to Mathematical Transformations for Architects and Designers](https://amzn.to/32VgiBt)
 
 The following code was to give one quick access to the look at view of graphics in real time. 
 
